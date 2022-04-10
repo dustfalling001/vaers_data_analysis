@@ -15,7 +15,7 @@
 #+REVEAL_TRANS: cube
 #+REVEAL_THEME: black
 #+REVEAL_HLEVEL: 2
-#+REVEAL_TALK_URL: https://weinix.github.io/vaers_covid19_vax_analysis/
+#+REVEAL_TALK_URL: https://dustfalling001.github.io/vaers_data_analysis/
 #+REVEAL_TALK_QR_CODE: <code>url.jpg</code>
 #+REVEAL_POSTAMBLE: <p> ww </p>
 
